@@ -7,11 +7,11 @@ client.on('ready', () => {
 
 client.on('message', msg => {
   if (msg.content === '1') {
-    msg.reply('WLC to Twix System');
+    msg.reply('Welcome to Qalise Server');
   }
 });
 
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 
 
@@ -43,7 +43,7 @@ client.on('message', msg => {
 
 
 
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 
 
@@ -67,7 +67,7 @@ var prefix = "$";
     }
       });
 	  
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 
 client.on('message', message => {
@@ -109,7 +109,7 @@ client.on('message', message => {
 }
 });
 
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 client.on('message', message => {
 	var prefix = "$"
@@ -148,7 +148,7 @@ client.on('message', message => {
 }
 });
 
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 
 client.on('message', message => {
@@ -179,7 +179,7 @@ var prefix = "$";
        
 });
 
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 client.on('message', message => {
         if (message.content === "$inv") {
@@ -193,14 +193,14 @@ client.on('message', message => {
    });
    
    
-client.login('NTEyOTM3MDI1NTYxNjkwMTEz.DtAtjQ.WzP_QYCxmDU2qy-b2y8g-JvjGm0');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 
 client.on('guildMemberAdd', (member) => {
-member.addRole(member.guild.roles.find('name', 'Twix'));
+member.addRole(member.guild.roles.find('name', 'Qalise'));
 });
 
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 
 
@@ -216,7 +216,7 @@ client.on('ready', () => {
 });
 
 
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 client.on("message", message => {
     const prefix = "$"
@@ -274,7 +274,7 @@ client.on("message", message => {
   
   });
   
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 client.on("message", message => {
     if (message.author.bot) return;
@@ -309,7 +309,7 @@ client.on("message", message => {
   
   });
 
-client.login('');  
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');  
 
 client.on('message', message => { 
 	var prefix ="$";
@@ -341,7 +341,7 @@ client.on('message', message => {
     message.channel.send(id)
 }       });
 
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 client.on('message', message => {
 	var prefix = "$";
@@ -375,7 +375,7 @@ message.channel.send("``áÇ ÊÓÊØíÚ ÓÍÈ "+ message.mentions.members.fir
 message.react("?")
  }}});
  
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 client.on('ready', () => {
    console.log(`----------------`);
@@ -388,7 +388,7 @@ client.on('ready', () => {
    client.user.setStatus("dnd")
 });
 
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
 
 
 client.on('message', message => {
@@ -408,4 +408,4 @@ client.on('message', message => {
 });
 
 
-client.login('');
+client.login('NTE4NTI4OTU0NzMxMzMxNTk0.DuSGSQ.U9mfeZI7lgDDo8sK25WmhJzmDBw');
